@@ -10,3 +10,5 @@
 https://sadecerex.com/ 
 
 Privler İçin Kayıt Botu Komutlar Yukarıda config.json da gerekli notlar yazıyor İyi Kullanımlar <3.
+
+rex.bat Startlamanızı Kolaylaştırmak İçindir İsterseniz Silebilirsiniz.
